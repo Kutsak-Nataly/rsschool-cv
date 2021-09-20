@@ -15,6 +15,7 @@
 
 
 ## English
+
 ```
 A2+ (passed testing in RSSChool)
 ```
@@ -30,6 +31,7 @@ A2+ (passed testing in RSSChool)
 | 1992-1994 | lyceum at BSU | chemistry |
 
 ## Work experience
+
 | Date | Organization name | Responsibilities |
 |---:|:---|:---|
 |2018-2020|OOO "Мирелайн"|1. Development of new directions of business<br>2. Creation of a dealer network. Consulting and training partners for the sale of our products.<br>3. Analysis of trends<br>4. Development marketing materials for the company<br>5. All responsibilities from 2013-2018 *look below* |
