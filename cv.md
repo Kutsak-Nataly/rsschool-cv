@@ -9,7 +9,7 @@
 
 *Skill / Proficiency level (maximum score 10)*
 
-| HTML | CSS | JavaScript | Angular | NodeJS | WordPress | Bootstrap5 | SEO | Photoshop | Illustarior |
+| HTML | CSS | JavaScript | Angular | NodeJS | WordPress | Bootstrap5 | SEO | Photoshop | llustarior |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |5|5|5|5|5|6|6|7|10|10
 
@@ -21,13 +21,13 @@ A2+ (passed testing in RSSChool)
 ```
 
 ## Education
-| Date | Name | Course / Faculty |
-|:---:|:---:| :--- |
-| 2021 |  RS School (epam)  | Angular/Node JS |
-| 2019 |  GeekBrains  | Product Manager |
-| 2011-2014 |  School of business os BSU  | WEB design and programming |
-| 2004-2005 |  Информ-дизайн 8  | design and graphics |
-| 1994-2000 |  BSU (Belarusian State University)  | chemistry |
+| Date | Name | Course/Faculty |
+|:--:|:--:|:--|
+| 2021 | RS School (epam)  | Angular/Node JS |
+| 2019 | GeekBrains  | Product Manager |
+| 2011-2014 | School of business os BSU  | WEB design and programming |
+| 2004-2005 | Информ-дизайн 8  | design and graphics |
+| 1994-2000 | BSU (Belarusian State University)  | chemistry |
 | 1992-1994 | lyceum at BSU | chemistry |
 
 ## Work experience
