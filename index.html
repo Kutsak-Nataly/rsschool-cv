@@ -166,12 +166,33 @@
                 </tbody>
             </table>
         </section>
+        <section>
+            <h2>
+                Code example
+            </h2>
+            <pre>
+                <code>
+@Entity({name: 'board'})
+export class Board {
+    @Column({default: 'string'})
+    title: string;
+    @OneToMany(() => ColumnBoard, column => column.board, {cascade: ['insert', 'update', 'remove', 'soft-remove', 'recover'], eager: true})
+    columns: ColumnBoard[];
+    @OneToMany(() => Task, task => task.board, {cascade: ['remove']})
+    tasks: Task[];
+    @PrimaryGeneratedColumn('uuid')
+    id?: string;
+}
+                </code>
+            </pre>
+        </section>
         <footer>
+            <hr>
             <p>
                 <a href="https://github.com/Kutsak-Nataly" title="my github">Kutsak Nataly</a> / 2021
                 <a href="https://rs.school/js/" title="JavaScript/Front-end" target="_blank">
                     <img src="https://rs.school/images/rs_school_js.svg" alt="rsschool">
-                </a>   
+                </a>
             </p>
         </footer>
     </div>
